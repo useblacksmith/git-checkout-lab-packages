@@ -1,0 +1,8 @@
+[build-system]
+requires = []
+build-backend = "gcl_backend"
+backend-path = ["."]
+
+[project]
+name = "gcl-dep"
+version = "0.1.0"
